@@ -1,4 +1,4 @@
-# Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file.
+[# Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file.
 ### Exp 5: Design an L298 2A Motor Driver Circuit using Eagle software and generate the Gerber file.
 
 # AIM:
@@ -74,3 +74,4 @@ o	When both inputs are the same, the motor stops.<br>
  
 # RESULT:
 Thus, the schematic and PCB layout for the L298 2A Motor Driver Circuit has been successfully designed using Eagle software.
+](https://github.com/anishkumar-Embedded/Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file.)
